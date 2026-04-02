@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kasm"
-version = "0.1.0"
+version = "1.18.1.0"
 description = "Python client for the Kasm API."
 readme = "README.md"
 requires-python = ">=3.10"
