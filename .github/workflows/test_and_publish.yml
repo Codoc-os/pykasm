@@ -163,7 +163,7 @@ jobs:
 #    continue-on-error: true
 #    environment:
 #      name: pypi
-#      url: https://pypi.org/p/pykasm
+#      url: https://pypi.org/p/kasm
 #    permissions:
 #      id-token: write
 #

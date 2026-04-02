@@ -95,5 +95,5 @@ Before you submit a pull request, check that it meets these guidelines:
 2. If the pull request adds functionality, the documentation should be updated.
 
 3. The pull request should pass all checks and tests. Check
-   https://github.com/qcoumes/pykasm/actions
+   https://github.com/Codoc-os/pykasm/actions
    and make sure that the tests pass for all supported Python versions.

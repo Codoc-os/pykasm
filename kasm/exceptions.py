@@ -2,7 +2,7 @@ from kasm.responses import ClientResponse
 
 
 class KasmAPIError(Exception):
-    """Base class for all exceptions raised by `pykasm`."""
+    """Base class for all exceptions raised by `kasm`."""
 
 
 class RequestError(KasmAPIError):
