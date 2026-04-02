@@ -34,5 +34,5 @@ pip install kasm
 **PyKasm** follows a `major.minor.patch.revision` versioning scheme. The `major.minor.patch` parts
 corresponds to the Kasm API version, while `revision` is incremented for bugfixes and new features.
 
-So if you want to use Kasm API 1.18.0, you should install `pykasm>=1.18.0, <1.18.1`. Older version
+So if you want to use Kasm API 1.18.0, you should install `kasm>=1.18.0, <1.18.1`. Older version
 **PyKasm** might work with a newer API version, but this is not guaranteed.
